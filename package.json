@@ -1,0 +1,17 @@
+{
+  "name": "Sharp Bot",
+  "version": "1.0.0",
+  "description": "Custom discord bot for Sharp Discord server.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^4.1.4",
+    "discord.js": "^11.4.2",
+    "sqlite": "^3.0.0"
+  }
+}
